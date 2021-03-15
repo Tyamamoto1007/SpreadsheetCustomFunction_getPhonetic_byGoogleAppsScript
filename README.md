@@ -1,0 +1,2 @@
+# SpreadsheetCustomFunction_getPhonetic_byGoogleAppsScript
+Googleスプレッドシートで利用可能な漢字のよみがな(ふりがな・ルビ)を取得するカスタム関数のGoogle Apps Scriptのスクリプトです。
